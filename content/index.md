@@ -1,42 +1,10 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Making A Compelling Thought
 ---
-## The index page
+## What's a Compelling Thought?
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Initially, a person may think that a compelling thought is just that; A thought with enough weight behind it to incur action, but that's only the surface of what a Compelling Thought is.
 
-## Editing pages
+Firstly A Thought alone isn't compelling, it could be a narration of action, a simple question asked to yourself, or even an answer to a question that was asked, rhetorical or not. The mind is an amazing place, housing memories and unanswered questions, but even the mind questions itself and makes us wonder what the basis of our morels lie and the foundation of what we believe.
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
-
+That is what a 'Compelling Thought' is. Something that shakes the foundation of what you believe and makes you rebuild your foundation, or add to it, with that thought as the driving force.
