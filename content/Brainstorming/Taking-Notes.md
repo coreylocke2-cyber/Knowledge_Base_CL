@@ -1,4 +1,7 @@
-When brainstorming it's important to write down your thoughts even if they don't seem like they're a big part of what your thinking about. 
+
+Note-Taking is the practice of recording from a source such as oral presentation, web platform, or any other number of possible sources; but Note-Taking alone isn't something that can only be used when aquiring new information from differing sources, it also helps with brainstorming.
+
+When Brainstorming, it's almost imperative that notes on the conversation are being made so that ideas are being organized and gathered in an easily accessible space that allows for changes and for more information to be added or expounded upon.
 
 ### How to Take Notes
 
@@ -12,3 +15,7 @@ Next, being quick when taking notes is something that almost all students inspir
 
 [[Stimulating-Thought]]
 [[Thinking-Outside-the-Box]]
+
+### Articles 
+[[Note-taking - Wikipedia.pdf|More About Note-Taking]]
+[[Cornell Notes - Wikipedia.pdf |Cornell Notes]]
