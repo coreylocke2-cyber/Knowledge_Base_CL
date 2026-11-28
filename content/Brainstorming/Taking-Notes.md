@@ -1,5 +1,5 @@
 
-Note-Taking is the practice of recording from a source such as oral presentation, web platform, or any other number of possible sources; but Note-Taking alone isn't something that can only be used when aquiring new information from differing sources, it also helps with brainstorming.
+Note-Taking is the practice of recording from a source such as oral presentation, web platform, or any other number of possible sources; but Note-Taking alone isn't something that can only be used when acquiring new information from differing sources, it also helps with brainstorming.
 
 When Brainstorming, it's almost imperative that notes on the conversation are being made so that ideas are being organized and gathered in an easily accessible space that allows for changes and for more information to be added or expounded upon.
 
